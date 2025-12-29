@@ -1,8 +1,4 @@
-Resetting and switching to **proot-distro** is a *very* sane move at this point.
-It sidesteps Android’s DNS weirdness cleanly and puts you back on boring, predictable Linux ground — which is exactly what you want for learning infra.
 
-Below is a **fresh, minimal, linear plan**.
-No Cloudflare yet. No tunnels yet. Just foundations done *correctly*.
 
 ---
 
